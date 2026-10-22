@@ -1,0 +1,9 @@
+{
+  "name": "Kalamitta",
+  "short_name": "Kalamitta",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eef7f5",
+  "theme_color": "#075b62",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}
